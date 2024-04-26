@@ -23,7 +23,7 @@ export default async function Login() {
             src="logo-black.svg"
             alt="logo"
             width={250}
-            height={250}
+            height={23}
             className={classes.logo}
           />
         </Link>
